@@ -1,0 +1,13 @@
+feature,needed,new_param
+"user_tx_cnt(v, t, n)",1,n1
+"user_avg_active_day_gap(v, t, n)",2,n2
+"item_tx_cnt(i, t, m)",0,
+"item_avg_active_day_gap(i, t, m)",0,
+"item_repeat_purchase_rate(i, t, m)",0,
+"cat_tx_cnt(c, t, k)",0,
+"viscat_tx_cnt(c, t, x)",2,x1
+"vi_tx_cnt(v, i, t, q)",2,q1
+"vc_tx_cnt(v, c, t, s)",1,s1
+"ic_tx_cnt(v, c, t, z)",0,
+"ic_view_to_tx_conv(v, c, t, z)",0,
+"ii_co_purchase(i, j, t, u) -> row projection ii_co_purchase_cnt(i, t, u)",0,
