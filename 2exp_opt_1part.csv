@@ -1,0 +1,4 @@
+param,feature,group,mark,start_window_days,optimal_window_days,moved,n_moves,n_accepted,n_skips,n_halvings,converged,step_final_days,best_gain_roc
+n1,"user_tx_cnt(v, t, n)",G1,1,372.0,372.0,0,0,0,0,0,1,5.0,0.0
+n2,"user_avg_active_day_gap(v, t, n)",G1,2,372.0,542.0,1,21,3,18,4,1,5.0,9.1e-05
+s1,"vc_tx_cnt(v, c, t, s)",G5.1,1,372.0,372.0,0,0,0,0,0,1,5.0,0.0
