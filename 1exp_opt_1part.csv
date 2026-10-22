@@ -1,0 +1,5 @@
+param,group,features,start_window_days,optimal_window_days,moved,n_moves,n_accepted,n_skips,n_halvings,converged,step_final_days,best_gain_roc,influential
+n,G1,"user_tx_cnt(v, t, n), user_avg_active_day_gap(v, t, n)",372.606,712.606,1,13,6,2,4,1,5.0,0.004771,1
+m,G2,"item_tx_cnt(i, t, m), item_avg_active_day_gap(i, t, m), item_repeat_purchase_rate(i, t, m)",372.606,372.606,0,10,0,0,4,1,5.0,0.0,0
+s,G5.1,"vc_tx_cnt(v, c, t, s)",372.606,287.606,1,11,2,0,4,1,5.0,0.002744,1
+z,G5.2,"ic_tx_cnt(v, c, t, z), ic_view_to_tx_conv(v, c, t, z)",372.606,367.606,1,9,1,0,4,1,5.0,2.1e-05,0
