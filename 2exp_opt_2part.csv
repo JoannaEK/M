@@ -1,0 +1,3 @@
+param,feature,group,mark,start_window_days,optimal_window_days,moved,n_moves,n_accepted,n_skips,n_halvings,converged,step_final_days,best_gain_roc
+x1,"viscat_tx_cnt(c, t, x)",3.2.visitor_cat,2,372.0,612.0,1,25,5,20,4,1,5.0,0.003307
+q1,"vi_tx_cnt(v, i, t, q)",4.visitor-itemid,2,372.0,332.0,1,20,1,19,4,1,5.0,0.001074
